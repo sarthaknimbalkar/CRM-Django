@@ -64,7 +64,7 @@ python manage.py runserver
 2. Open your web browser and visit `http://127.0.0.1:8000/admin/` to access the Django admin interface.
    - Use superuser credentials to log in (if not already created during migrations).
 
-3. To access the CRM application, go to `http://127.0.0.1:8000/crm/`.
+3. To access the CRM application, go to `http://127.0.0.1:8000/`.
 
 4. You can now perform CRUD operations on client data via the web interface.
 
